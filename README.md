@@ -43,6 +43,12 @@ I think you should use an
 
 *[HTML]: HyperText Markup Language
 
-![Alt text](/path/to/img.jpg)
+![rediff](https://user-images.githubusercontent.com/87699824/128619839-ebbac48a-3a88-4717-a44b-bf7678f421b7.png)
 
-![Alt text](/path/to/img.jpg "Optional title")
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
