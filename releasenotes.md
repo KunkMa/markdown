@@ -1,4 +1,4 @@
-# Gmail tutorial release notes
+# *Gmail tutorial release notes*
 Gmail has many features and options that are unexplored.
 > Confidential mode.
 > Schedueled mails.
