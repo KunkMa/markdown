@@ -14,6 +14,7 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+
 ~~This is strikethrough Text~~
 
 | Column 1       | Column 2     | Column 3     |
