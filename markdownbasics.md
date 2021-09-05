@@ -1,7 +1,7 @@
 # This is Heading 1 #
 ## This is Heading 2 ##
 ### This is Heading 3 ###
-### inline link syntax ###
+### heading 4 ###
 A [EXAMPLELINK](http://example.com "Title").
 
 
@@ -14,6 +14,7 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+~~This is strikethrough Text~~
 
 | Column 1       | Column 2     | Column 3     |
 | :------------- | :----------: | -----------: |
@@ -28,20 +29,24 @@ _You **can** combine them_
  * guava
  * Melon
  
+ ## ordered list ##
+ 1. Ordered list element one
+2. Ordered list element two
+ 
 http://github.com - automatic!
 [GitHub](http://github.com)
 
+Below is a Block quote -
 As Kanye West said:
 
 > We're living the future so
 > the present is our past.
 
-I think you should use an
-`<addr>` element here instead.
+> This is blockquote text
+> This is second line of text
+>> This is nested blockquotes content
 
-\*literal asterisks\*
 
-*[HTML]: HyperText Markup Language
 
 ![rediff](https://user-images.githubusercontent.com/87699824/128619839-ebbac48a-3a88-4717-a44b-bf7678f421b7.png)
 
